@@ -3,6 +3,10 @@ Simple Css File
 
 */
 tr:nth-child(even) {background-color: #f2f2f2;}
+
+tr td{
+    white-space: nowrap;
+}
 a#prev{
     color: #FFF;
     background: #1c9537;
