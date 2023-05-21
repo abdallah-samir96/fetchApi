@@ -1,0 +1,30 @@
+/*
+Simple Css File
+
+*/
+tr:nth-child(even) {background-color: #f2f2f2;}
+a#prev{
+    color: #FFF;
+    background: #1c9537;
+    border-radius: 20px;
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+}
+a#next{
+    color: #FFF;
+    background: #0062cc;
+    border-radius: 20px;
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+}
+footer{
+    background: #333;
+    padding: 10px;
+    text-align: center;
+    font-family: serif;
+    color: #FFF;
+    font-size: 22px;
+    margin-top: 20px;
+}
