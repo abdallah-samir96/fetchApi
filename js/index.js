@@ -23,7 +23,7 @@ async function  getUsersInfo(){
 }
 
 function pushUsersInfoToUi(usersInfo){
-    // using enhanced for loop to wrap the object o user directly
+    // using enhanced for loop to wrap the object of user directly
     for(let user of usersInfo){
         // using string template instead od double quotation
         $('#body')
